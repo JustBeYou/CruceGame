@@ -7,8 +7,7 @@
 #define SEND_LOBBY_MESSAGE_FAILURE -20
 #define MESSAGE_TOO_LONG -21
 #define DISCONNECT_ERROR -22
-#define PARAMETER_OUT_OF_RANGE -23
-#define LEAVE_ROOM_ERROR -24
+#define LEAVE_ROOM_ERROR -23
 
 int currentRoom = -1;
 
